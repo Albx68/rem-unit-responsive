@@ -1,0 +1,39 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap:2rem;
+
+}
+
+
+.one{
+    font-size: 4rem;
+    height:50px;
+}
+
+.two{
+    font-size: 3rem;
+    height:50px;
+}
+
+.three{
+    font-size: 2rem;
+    height:50px;
+
+}
+
+/* @media (max-width:500px) {
+    .one{
+        font-size: 3rem
+    }
+    
+    .two{
+        font-size: 2rem
+    }
+    
+    .three{
+        font-size: 1rem
+    }
+} */
